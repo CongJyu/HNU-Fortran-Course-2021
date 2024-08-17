@@ -1,5 +1,2 @@
 .DS_Store
 .vscode
-*/.vscode
-*/build
-*/cmake-build-debug
